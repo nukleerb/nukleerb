@@ -11,7 +11,7 @@ Readme
 
 
 
-- 🔭 I’m currently working on **Akbank cybersecurity analyst program**
+- 🔭 I’m currently working on **Akbank cybersecurity analyst program and THY**
 
 - 🌱 I’m currently learning **cisco and palo alto networks**
 
