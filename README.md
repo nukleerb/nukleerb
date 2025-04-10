@@ -11,7 +11,7 @@ Readme
 
 
 
-- 🔭 I’m currently working on **IBM, Mc Kinsey Forward program and THY**
+- 🔭 I’m currently working on **International Youth Programmes**
 
 - 🌱 I’m currently learning **cisco and palo alto networks**
 
