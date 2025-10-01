@@ -23,7 +23,7 @@ Readme
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **kurt.baris@yahoo.com**
+- 📫 How to reach me ** redacted **
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bariskurt000/](https://www.linkedin.com/in/bariskurt000/)
 
