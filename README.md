@@ -13,7 +13,7 @@ Readme
 
 - 🔭 I’m currently working on **International Youth Programmes**
 
-- 🌱 I’m currently learning something at **cisco and palo alto networks**
+- 🌱 I’m currently learning something at **cisco **
 
 - 👯 I’m looking to collaborate on **pentesting**
 
