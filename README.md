@@ -25,8 +25,6 @@ Readme
 
 - 📫 How to reach me ** redacted **
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/bariskurt000/](https://www.linkedin.com/in/bariskurt000/)
-
 - ⚡ Fun fact **I think Im funny and an INTP.**
 
 <h3 align="left">Connect with me:</h3>
