@@ -25,7 +25,7 @@ Readme
 
 - 📫 How to reach me ** redacted **
 
-- ⚡ Fun fact **I think Im funny and an INTP.**
+
 
 
 <p align="left">
