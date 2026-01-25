@@ -1,7 +1,7 @@
 
 Readme
 <h1 align="center">Hi 👋, I'm Baris</h1>
-<h3 align="center">I am passionate Cybersecurity and Disaster Preparedness volunteer from Türkiye</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nukleerb&label=Profile%20views&color=0e75b6&style=flat" alt="nukleerb" /> </p>
 
